@@ -1,12 +1,13 @@
 # MQTT的安装与使用
 
 
-**本人情况：树莓派4b(armv7,32位,Debian11）**
+![featured-image](https://raw.githubusercontent.com/Alvin-lyq/picture/main/2023/04/upgit_20230420_1681961077.png)
 
-> 参考：
-> 1.https://docs.emqx.cn/broker/v4.3/getting-started/install.html#%E9%80%9A%E8%BF%87-docker-%E8%BF%90%E8%A1%8C-%E5%8C%85%E5%90%AB%E7%AE%80%E5%8D%95%E7%9A%84-docker-compose-%E9%9B%86%E7%BE%A4
-> 2.https://www.bilibili.com/video/BV1aV411h7Y2 （https://www.bilibili.com/read/cv8824727?spm_id_from=333.999.0.0）
-> 3.https://blog.csdn.net/zuozewei/article/details/118052978
+介绍在树莓派上如何使用MQTT.
+
+<!--more-->
+
+**本人情况：树莓派4b(armv7,32位,Debian11）**
 
 ## 一、安装emqx
 
@@ -30,6 +31,7 @@ docker run -d --name emqx -p 1883:1883 -p 8081:8081 -p 8083:8083 -p 8883:8883 -p
 用户名admin 
 密码public 
 <img src="https://raw.githubusercontent.com/Alvin-lyq/picture/main/2023/04/upgit_20230419_1681891268.png" alt="1" style="zoom:80%;" />
+
 简单设置下
 
 <img src="https://raw.githubusercontent.com/Alvin-lyq/picture/main/2023/04/upgit_20230419_1681891286.png" alt="2" style="zoom: 67%;" />
@@ -82,4 +84,9 @@ docker restart <CONTAINER ID>
 ```
 
 ![9](https://raw.githubusercontent.com/Alvin-lyq/picture/main/2023/04/upgit_20230419_1681891438.png)
+
+> 参考：
+> 1.https://docs.emqx.cn/broker/v4.3/getting-started/install.html#%E9%80%9A%E8%BF%87-docker-%E8%BF%90%E8%A1%8C-%E5%8C%85%E5%90%AB%E7%AE%80%E5%8D%95%E7%9A%84-docker-compose-%E9%9B%86%E7%BE%A4
+> 2.https://www.bilibili.com/video/BV1aV411h7Y2 （https://www.bilibili.com/read/cv8824727?spm_id_from=333.999.0.0）
+> 3.https://blog.csdn.net/zuozewei/article/details/118052978
 

@@ -10,9 +10,8 @@
     <pubDate>Wed, 19 Apr 2023 20:45:25 &#43;0800</pubDate>
     <author>LYQ</author>
     <guid>https://github.com/mqtt%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
-    <description><![CDATA[本人情况：树莓派4b(armv7,32位,Debian11）
-参考： 1.https://docs.emqx.cn/broker/v4.3/getting-started/install.html#%E9%80%9A%E8%BF%87-docker-%E8%BF%90%E8%A1%8C-%E5%8C%85%E5%90%AB%E7%AE%80%E5%8D%95%E7%9A%84-docker-compose-%E9%9B%86%E7%BE%A4 2.https://www.bilibili.com/video/BV1aV411h7Y2 （https://www.bilibili.com/read/cv8824727?spm_id_from=333.999.0.0） 3.https://blog.csdn.net/zuozewei/article/details/118052978
-一、安装emqx 1 2 3 4 5 6 7 8 9 10 11 sudo su apt-get update curl -sSL https://get.docker.com | sh # 安装docker docker pull emqx/emqx:v4.0.0 #通过 Docker Hub (opens new window)获取z` wget -O emqx-docker.zip https://www.emqx.com/en/downloads/broker/v4.0.0/emqx-docker-v4.0.0-alpine3.10-arm32v7.zip #通过 emqx.io下载 Docker 镜像，并手动加载,这边要注意自己的实际情况 unzip emqx-docker.zip docker load &lt; emqx-docker-v4.0.0-alpine3.10-arm32v7 #启动 docker 容器 docker run -d --name emqx -p 1883:1883 -p 8081:8081 -p 8083:8083 -p 8883:8883 -p 8084:8084 -p 18083:18083 emqx/emqx:v4.]]></description>
+    <description><![CDATA[<p></p>
+<p>介绍在树莓派上如何使用MQTT.</p>]]></description>
 </item>
 </channel>
 </rss>
