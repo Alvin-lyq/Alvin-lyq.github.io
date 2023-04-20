@@ -4,14 +4,23 @@
         <link>https://github.com/posts/</link>
         <description>所有文章 | LYQ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>alvinli12@qq.com (LYQ)</managingEditor>
-            <webMaster>alvinli12@qq.com (LYQ)</webMaster><lastBuildDate>Wed, 19 Apr 2023 20:45:25 &#43;0800</lastBuildDate><atom:link href="https://github.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>alvinli12@qq.com (LYQ)</webMaster><lastBuildDate>Thu, 20 Apr 2023 15:36:26 &#43;0800</lastBuildDate><atom:link href="https://github.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>MQTT的安装与使用</title>
     <link>https://github.com/mqtt%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
     <pubDate>Wed, 19 Apr 2023 20:45:25 &#43;0800</pubDate>
     <author>LYQ</author>
     <guid>https://github.com/mqtt%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
-    <description><![CDATA[<p></p>
-<p>介绍在树莓派上如何使用MQTT.</p>]]></description>
+    <description><![CDATA[<p>本文介绍在树莓派上如何使用MQTT.</p>
+]]></description>
+</item>
+<item>
+    <title>利用kaggle训练模型</title>
+    <link>https://github.com/%E5%88%A9%E7%94%A8kaggle%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B/</link>
+    <pubDate>Thu, 20 Apr 2023 15:36:26 &#43;0800</pubDate>
+    <author>LYQ</author>
+    <guid>https://github.com/%E5%88%A9%E7%94%A8kaggle%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B/</guid>
+    <description><![CDATA[<p>本文介绍如何利用kaggle上免费的GPU资源训练模型.</p>
+]]></description>
 </item>
 </channel>
 </rss>

@@ -1,9 +1,9 @@
 # MQTT的安装与使用
 
 
-![featured-image](https://raw.githubusercontent.com/Alvin-lyq/picture/main/2023/04/upgit_20230420_1681961077.png)
+本文介绍在树莓派上如何使用MQTT.
 
-介绍在树莓派上如何使用MQTT.
+<img src="https://raw.githubusercontent.com/Alvin-lyq/picture/main/2023/04/upgit_20230420_1681961077.png" alt="featured-image" style="zoom: 25%;" />
 
 <!--more-->
 

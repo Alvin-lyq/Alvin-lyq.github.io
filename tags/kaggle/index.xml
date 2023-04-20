@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kaggle - 标签 - LYQ&#39;s Blog</title>
+        <link>https://github.com/tags/kaggle/</link>
+        <description>Kaggle - 标签 - LYQ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>alvinli12@qq.com (LYQ)</managingEditor>
+            <webMaster>alvinli12@qq.com (LYQ)</webMaster><lastBuildDate>Thu, 20 Apr 2023 15:36:26 &#43;0800</lastBuildDate><atom:link href="https://github.com/tags/kaggle/" rel="self" type="application/rss+xml" /><item>
+    <title>利用kaggle训练模型</title>
+    <link>https://github.com/%E5%88%A9%E7%94%A8kaggle%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B/</link>
+    <pubDate>Thu, 20 Apr 2023 15:36:26 &#43;0800</pubDate>
+    <author>LYQ</author>
+    <guid>https://github.com/%E5%88%A9%E7%94%A8kaggle%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B/</guid>
+    <description><![CDATA[<p>本文介绍如何利用kaggle上免费的GPU资源训练模型.</p>
+]]></description>
+</item>
+</channel>
+</rss>

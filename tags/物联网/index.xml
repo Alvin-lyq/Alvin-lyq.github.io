@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>物联网 - 标签 - LYQ&#39;s Blog</title>
+        <link>https://github.com/tags/%E7%89%A9%E8%81%94%E7%BD%91/</link>
+        <description>物联网 - 标签 - LYQ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>alvinli12@qq.com (LYQ)</managingEditor>
+            <webMaster>alvinli12@qq.com (LYQ)</webMaster><lastBuildDate>Wed, 19 Apr 2023 20:45:25 &#43;0800</lastBuildDate><atom:link href="https://github.com/tags/%E7%89%A9%E8%81%94%E7%BD%91/" rel="self" type="application/rss+xml" /><item>
+    <title>MQTT的安装与使用</title>
+    <link>https://github.com/mqtt%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+    <pubDate>Wed, 19 Apr 2023 20:45:25 &#43;0800</pubDate>
+    <author>LYQ</author>
+    <guid>https://github.com/mqtt%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+    <description><![CDATA[<p>本文介绍在树莓派上如何使用MQTT.</p>
+]]></description>
+</item>
+</channel>
+</rss>
